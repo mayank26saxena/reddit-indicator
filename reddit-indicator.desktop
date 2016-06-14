@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=reddit-indicator
+Comment=A panel indicator for viewing the latest Reddit News feed.
+Exec=/usr/bin/hn
+Icon=reddit.png
+Terminal=false

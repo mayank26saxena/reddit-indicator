@@ -1,0 +1,12 @@
+Source: reddit-indicator
+Section: gnome
+Priority: optional
+Maintainer: Mayank Saxena <mayank26saxena@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://launchpad.net/~mayank26saxena/+archive/ubuntu/reddit-indicator
+
+Package: reddit-indicator
+Architecture: any
+Depends: ${python:Depends}
+Description: Reddit Indicator.
