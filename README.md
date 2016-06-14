@@ -8,7 +8,7 @@ git clone https://github.com/mayank26saxena/reddit-indicator/
 
 cd hn-indicator
 
-python hn &
+python reddit &
 ```
 
 #PPA
@@ -21,10 +21,10 @@ sudo apt-get install reddit-indicator
 ```
 
 ##Top 10 latest posts from the Reddit. 
-![alt tag](https://github.com/mayank26saxena/hn-indicator/blob/master/screenshots/screenshot-1.png)
+![alt tag](https://github.com/mayank26saxena/reddit-indicator/blob/master/screenshots/screenshot1.png)
 
 ##Adjusting refresh duration.
-![alt tag](https://github.com/mayank26saxena/hn-indicator/blob/master/screenshots/screenshot-2.png)
+![alt tag](https://github.com/mayank26saxena/reddit-indicator/blob/master/screenshots/screenshot2.png)
 
 #Contributing
 Use github's pull request/issues feature for all contributions.
