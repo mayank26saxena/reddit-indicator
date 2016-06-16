@@ -20,6 +20,9 @@ sudo apt-get update
 sudo apt-get install reddit-indicator
 ```
 
+#Run from Dash
+![alt tag](https://github.com/mayank26saxena/reddit-indicator/blob/master/screenshots/screenshot3.png)
+
 ##Top 10 latest posts from the Reddit. 
 ![alt tag](https://github.com/mayank26saxena/reddit-indicator/blob/master/screenshots/screenshot1.png)
 
